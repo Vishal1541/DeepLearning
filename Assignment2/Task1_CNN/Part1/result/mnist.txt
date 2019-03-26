@@ -1,0 +1,3 @@
+Train on 60000 samples, validate on 10000 samples
+Epoch 1/1
+60000/60000 [==============================] - 160s 3ms/step - loss: 0.0564 - acc: 0.9832 - val_loss: 0.0512 - val_acc: 0.9861
