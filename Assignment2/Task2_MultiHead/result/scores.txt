@@ -2,9 +2,9 @@ Accuracy:
 Len 1.0
 Wid 1.0
 Color 1.0
-Angle 0.9658333333333333
+Angle 0.986875
 FScore:
 Len 1.0
 Wid: 1.0
 Color: 1.0
-Angle: 0.9659088076281012
+Angle: 0.986919641816986
