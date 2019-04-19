@@ -1,5 +1,5 @@
 # CS671-Deep Learning and Applications 
-:point_right:This repo contains all the assignments and project for this course. The team members are:
+:point_right:  This repo contains all the assignments and project for this course. The team members are:
   -  [Vishal Anand](https://github.com/Vishal1541)
   -  [Aman Jain](https://github.com/amanjain25/)
   -  [Yash Agrawal](https://github.com/YashAgrawal0)
