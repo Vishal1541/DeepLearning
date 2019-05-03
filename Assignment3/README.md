@@ -1,1 +1,0 @@
-Download the dataset from `https://students.iitmandi.ac.in/~d18033/Assignment3.zip` , name the downloaded zip file as data.zip and place it in the `Assignment3` folder. Unzip there itself and rename the folder as `data`. 
