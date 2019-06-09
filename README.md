@@ -5,6 +5,7 @@
   -  [Yash Agrawal](https://github.com/YashAgrawal0)
 
 ## Assignments
+
   -  _**Assignment1**_:
      -  [Data Management - Line Dataset Generation](https://github.com/Vishal1541/DeepLearning/tree/master/Assingment1/Task1_Images)
      -  [Computational Graph Usage - Gravity Simulator](https://github.com/Vishal1541/DeepLearning/tree/master/Assingment1/Task2_CompGraph)
