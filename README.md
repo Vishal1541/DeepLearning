@@ -21,3 +21,8 @@
      -  [Localization Problem - Localization along with classification for the given images.](https://github.com/Vishal1541/DeepLearning/tree/master/Assignment3/Task1_Localization)
      -  [Pixelwise Image Segmentation - Segments the image into coherent clusters](https://github.com/Vishal1541/DeepLearning/tree/master/Assingment1/Task2_Segmentation)
      -  [Core Point Detection in Fingerprints - Centre point of a fingerprint image](https://github.com/Vishal1541/DeepLearning/tree/master/Assingment1/Task3_Fingerprint)
+
+  -  _**Assignment4**_:
+     -  [Basic RNN](https://github.com/Vishal1541/DeepLearning/tree/master/Assignment4)
+     -  [Playing with RNNs](https://github.com/Vishal1541/DeepLearning/tree/master/Assignment4)
+     -  [Text Generation](https://github.com/Vishal1541/DeepLearning/tree/master/Assignment4)
